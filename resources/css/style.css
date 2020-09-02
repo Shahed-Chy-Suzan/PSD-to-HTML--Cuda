@@ -48,6 +48,7 @@ h1{
 
 --ekhane eti ".clearfix" class er jonno likha hoyechilo,grid.css e float er use er  jonno,cz nicher likha opore ote jacchilo,bg chole jacchilo,,kinto er valo solution holo,"grid.css" er shorotei 2nd para te ".group" er replacement e "row" bosiye deya,cz amra ekhane ".row" class ta use korechi*/
 
+
 /* ============================ */
 /*     REUSABLE COMPONENTS     */
 /* ============================ */
@@ -154,6 +155,7 @@ header{
   margin-top: 3.5rem;
   float: left;
 }
+
 
 /* MAIN NAVIGATION */
 
